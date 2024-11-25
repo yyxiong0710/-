@@ -1,0 +1,20 @@
+﻿  FileName.cpp
+C:\Users\youyi\source\repos\五子棋\五子棋\FileName.cpp(59,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\youyi\source\repos\五子棋\五子棋\FileName.cpp(61,31): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\youyi\source\repos\五子棋\五子棋\FileName.cpp(61,31): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\youyi\source\repos\五子棋\五子棋\FileName.cpp(61,68): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\youyi\source\repos\五子棋\五子棋\FileName.cpp(61,68): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\youyi\source\repos\五子棋\五子棋\FileName.cpp(61,101): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\youyi\source\repos\五子棋\五子棋\FileName.cpp(61,101): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\youyi\source\repos\五子棋\五子棋\FileName.cpp(61,139): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\youyi\source\repos\五子棋\五子棋\FileName.cpp(61,139): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\youyi\source\repos\五子棋\五子棋\FileName.cpp(67,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\youyi\source\repos\五子棋\五子棋\FileName.cpp(69,31): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\youyi\source\repos\五子棋\五子棋\FileName.cpp(69,31): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\youyi\source\repos\五子棋\五子棋\FileName.cpp(69,69): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\youyi\source\repos\五子棋\五子棋\FileName.cpp(69,69): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\youyi\source\repos\五子棋\五子棋\FileName.cpp(69,107): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\youyi\source\repos\五子棋\五子棋\FileName.cpp(69,107): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\youyi\source\repos\五子棋\五子棋\FileName.cpp(69,145): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\youyi\source\repos\五子棋\五子棋\FileName.cpp(69,145): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+  五子棋.vcxproj -> C:\Users\youyi\source\repos\五子棋\x64\Debug\五子棋.exe
